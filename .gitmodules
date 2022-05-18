@@ -1,0 +1,9 @@
+[submodule "cli"]
+	path = cli
+	url = https://github.com/pspiagicw/textify-cli
+[submodule "app"]
+	path = app
+	url = https://github.com/pspiagicw/textify-app
+[submodule "server"]
+	path = server
+	url = https://github.com/pspiagicw/textify-server
